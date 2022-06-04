@@ -1,21 +1,21 @@
-site: JDox
-title: JDox
-greetings: Hi 👋
+site: Conseils pour chat
+title: Conseils pour chat
+greetings: Conseils pour chat
 description: >-
-  JDox is Jekyll blog theme powered by Github Pages
-lang: en
+  Ce blog recense différents articles pour vous conseiller sur votre chat
+lang: fr
 image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
-timezone:  Asia/Jakarta
+timezone: CET
 repo: https://github.com/aliifam/cnote # site repo [optional]
 data-theme: light # default theme "dark" | "light"
 discus-identifier: webthme
 default-thumb: https://res.cloudinary.com/notee/image/upload/v1640412257/notes/default-thumb.webp
 
 author:
-  name: Aliif Arief
+  name: Sofiane BOUMEDINE
   url: https://notes.aliif.space/
   bio: just ordinary boy interest in software development 
-  avatar: https://res.cloudinary.com/notee/image/upload/v1640410819/notes/avatar.jpg
+  avatar: ./avatar.jpg
   username: aliifam # general username
   github: aliifam # github username
   twitter: lifrief # twitter username
@@ -29,12 +29,12 @@ twitter:
 googlewebfonts: family=Archivo:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://sofianeboumedine.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/jdox" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://645c-2a01-e0a-843-a8f0-8df9-7425-7557-e480.eu.ngrok.io" # 
+# url: "https://sofianeboumedine.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
-# url: "http://localhost:4000" # 
 # baseurl: "" # 
 
 
